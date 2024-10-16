@@ -559,6 +559,9 @@ footer .mylogo-p::first-letter{
 padding: 25px;
 border-radius: 25px;
 }
+.gallery figure{
+    margin: auto;
+        }
 .gallery section figure img{
     border-radius: 15px;
   }
